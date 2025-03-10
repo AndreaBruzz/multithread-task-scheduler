@@ -14,7 +14,9 @@ analysis shall be carried out in order to assess the schedulability of the syste
 
 ---
 
-This project is part of the final evaluation for the Concurrent And Real Time Programmi @UNIPD
+This project is part of the final evaluation for the Concurrent And Real Time Programming @UNIPD
+
+---
 
 ## **Contributors**
 
