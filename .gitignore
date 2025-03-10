@@ -1,0 +1,36 @@
+client
+server
+
+# Compiled object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled static libraries
+*.a
+
+# Executable files
+*.out
+*.exe
+
+# Debug files
+*.dSYM/
+*.dmp
+
+# Dependency files
+*.d
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build directories
+/build/
